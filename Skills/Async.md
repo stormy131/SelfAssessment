@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop u
+  - Event loop k
   - `try..catch` e
   - Non-blocking e
   - Async I/O e
