@@ -1,45 +1,45 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns e
+  - Separation of concerns: 🙋 explained
   - Inversion of Control
-  - Dependency Injection e
-  - GoF Creational u
-  - GoF Structural u
-  - GoF Behavioral u
-  - GRASP 
+  - Dependency Injection: 🙋 explained
+  - GoF Creational: 🖐️ used
+  - GoF Structural: 🖐️ used
+  - GoF Behavioral: 🖐️ used
+  - GRASP
   - SOLID
   - CQS
-  - Modularity e
-  - Subsystems e
-  - Directories e
-  - Leaking abstractions h
-  - Multiparadigm code k
+  - Modularity: 🙋 explained
+  - Subsystems: 🙋 explained
+  - Directories: 🙋 explained
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🎓 known
   - Contract programming
-  - Platform-agnostic k
+  - Platform-agnostic: 🎓 known
   - Transport-agnostic
-  - Framework-agnostic k
-  - Code coverage k
-  - Cohesion e
-  - Coupling e
+  - Framework-agnostic: 🎓 known
+  - Code coverage: 🎓 known
+  - Cohesion: 🙋 explained
+  - Coupling: 🙋 explained
   - Cyclomatic complexity
-  - Reliability e
-  - Quality e
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
   - Availability
-  - Flexibility k
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer u
-  - Domain-specific language (DSL) k
-  - System vs applied code k
-  - Multilayer approach k
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 🎓 known
+  - System vs applied code: 🎓 known
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
-  - Separation of concerns (SoC) u
-  - Metaprogramming k
+  - Separation of concerns (SoC): 🖐️ used
+  - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
-  - Dependency injection (DI) e
-  - Clean architecture h
-  - Domain-driven design (DDD) u
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 🖐️ used
   - Pub/sub
   - Message brocker
   - Agent
@@ -48,38 +48,38 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram e
+  - Entity-relationship diagram: 🙋 explained
   - IDEF1X
-  - UML e
+  - UML: 🙋 explained
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems h
-  - High-intensive computing h
-  - Load balancing k
-  - Gateways h
-  - On-premises h
+  - Distributed systems: 👂 heard
+  - High-intensive computing: 👂 heard
+  - Load balancing: 🎓 known
+  - Gateways: 👂 heard
+  - On-premises: 👂 heard
   - IaaS
   - PaaS
-  - SaaS k
+  - SaaS: 🎓 known
   - FaaS clouds
-  - Serverless h
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS) h
+  - A software requirements specification (SRS): 👂 heard
   - Solution visions
   - Solution capabilities
-  - System design h
+  - System design: 👂 heard
   - Process modelling
-  - Data modelling k
-  - Solution components k
-  - Risk assessment h
-  - Non Functional Requirements (NFR) h
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR): 👂 heard
   - Clouds
   - BPMN
   - Low-code
-  - No-code k
-  - Metric k
+  - No-code: 🎓 known
+  - Metric: 🎓 known
   - Metric abuse
   - ACID
   - CAP theorem
@@ -90,14 +90,14 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope k
+  - Project scope: 🎓 known
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
-  - Service orchestration h
-  - Data warehouse k
-  - Business Intelligence h
+  - Service orchestration: 👂 heard
+  - Data warehouse: 🎓 known
+  - Business Intelligence: 👂 heard
   - OLAP
   - OLTP
   - Conways Law
